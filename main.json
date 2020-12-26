@@ -115,7 +115,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"toBeReleased.json#target"
+                 "value":"{<lobby>\/erfas-south.json#start_section77}"
                 }],
          "type":"tilelayer",
          "visible":true,
