@@ -222,10 +222,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-floor-wall",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -236,10 +241,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-overlay",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":512,
          "tileheight":32,
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -250,10 +260,15 @@
          "imagewidth":320,
          "margin":0,
          "name":"rc3-mullana-stars",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":100,
          "tileheight":32,
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -264,6 +279,12 @@
          "imagewidth":288,
          "margin":0,
          "name":"mapUtilities",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":9,
          "tileheight":32,
@@ -277,7 +298,6 @@
                          "value":true
                         }]
                 }],
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -288,10 +308,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_space_station",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":80,
          "tileheight":32,
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -302,6 +327,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"dk_transports",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":48,
          "tileheight":32,
@@ -434,7 +465,6 @@
                         }],
                  "id":47
                 }],
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -445,10 +475,15 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-functionary",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":256,
          "tileheight":32,
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }, 
         {
@@ -459,6 +494,12 @@
          "imagewidth":512,
          "margin":0,
          "name":"rc3-mullana-objects",
+         "properties":[
+                {
+                 "name":"tilesetCopyright",
+                 "type":"string",
+                 "value":"CC0 (https:\/\/creativecommons.org\/publicdomain\/zero\/1.0\/)"
+                }],
          "spacing":0,
          "tilecount":128,
          "tileheight":32,
@@ -472,7 +513,6 @@
                          "value":true
                         }]
                 }],
-         "tilesetCopyright":"CC0 (https://creativecommons.org/publicdomain/zero/1.0/)",
          "tilewidth":32
         }],
  "tilewidth":32,
